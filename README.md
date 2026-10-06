@@ -47,11 +47,11 @@ I'm a Computer Science undergraduate (B.Tech, Techno Main Salt Lake, Kolkata) wh
 ## Featured Projects
 
 ### [Multi-Agent System for Automated Database Insights](https://github.com/ishaanchowdhury1/Multi-Agent-AI-System-for-Automated-Database-Insights)
-Supervisor-orchestrated Analyst, Expert, and Reviewer agents that autonomously query a SQLite database and generate a PDF insights report.
+[Live demo](https://multi-agent-db-insights.streamlit.app/) · Supervisor-orchestrated Analyst, Expert, and Reviewer agents that autonomously query a SQLite database and generate a PDF insights report.
 `Python` `LangGraph` `GPT-4o-mini` `Streamlit`
 
 ### [NL-to-SQL Querying Agent](https://github.com/ishaanchowdhury1/SQL-Querying-Agents-With-Tools)
-Turns plain English into SQL via schema introspection and dynamic tool execution, with live streaming output. Prompt optimization and caching cut query response time by about 40%.
+[Live demo](https://sql-query-agent-tool.streamlit.app/) · Turns plain English into SQL via schema introspection and dynamic tool execution, with live streaming output. Prompt optimization and caching cut query response time by about 40%.
 `Python` `LangGraph` `SQLite` `Streamlit`
 
 ### [Invoice Agent System](https://github.com/ishaanchowdhury1/invoice-agent-system)
@@ -76,9 +76,9 @@ Autonomous L1 ticket triage with a hybrid RAG pipeline (**95% hit@3, 0.90 MRR**)
 
 ## Experience
 
-- **AI Intern** (starting now): hands-on AI engineering work alongside my studies.
+- **AI Engineering Intern, Therapy At Home** (starting now): hands-on AI engineering work alongside my studies.
 - **AI Agent Development Intern, SOiTA** (from 1 Nov 2026, remote): building AI agents.
-- **AI Engineer Intern, Thriving Springs AI** (Aug-Sep 2025): built an end-to-end RAG system with LangChain, Databricks, and Unity Catalog, improving retrieval accuracy by 35% with BGE-large embeddings and semantic filtering, plus a LangGraph multi-agent workflow for schema analysis, SQL generation, and summarization.
+- **Technical Team (Web, ML & CP), GDG On-Campus Techno Main Salt Lake**
 
 ---
 
