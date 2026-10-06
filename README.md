@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ishaanchowdhury-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishaanchowdhury)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ishaanchowdhury2007@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=ishaanchowdhury1&style=flat&color=blue)
 
 </div>
 
