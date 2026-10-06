@@ -1,54 +1,112 @@
-<h1 align="center">Ishaan Chowdhury</h1>
-<h3 align="center">AI Engineer · LLM Systems · RAG & Multi-Agent Architectures</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/ishaanchowdhury">linkedin.com/in/ishaanchowdhury/</a> ·
-  <a href="mailto:ishaanchowdhury.ic100@gmail.com">ishaanchowdhury.ic100@gmail.com</a> ·
-  <a href="https://instagram.com/iiits.ishaan">iiits.ishaan</a>
-</p>
+# Ishaan Chowdhury
 
----
+### AI Engineer · Agentic AI, RAG & Multi-Agent Systems
 
-I build LLM-powered systems — RAG pipelines, NL-to-SQL agents, and multi-agent workflows that turn raw enterprise data into actionable insights. Currently pursuing B.Tech in Computer Science at Techno Main Salt Lake.
+**I build LLM systems that are grounded, auditable, and safe to run in production.**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ishaanchowdhury-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishaanchowdhury)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ishaanchowdhury2007@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=ishaanchowdhury1&style=flat&color=blue)
 
-### What I Work With
-
-**AI & LLM** — LangChain · LangGraph · RAG · Prompt Engineering · BGE Embeddings · Multi-Agent Systems
-
-**Cloud & Databases** — Azure · AWS · Pinecone · CosmosDB · SQL · MongoDB
-
-**Languages & Frameworks** — Python · Django · JavaScript · HTML · CSS
+</div>
 
 ---
 
-### Projects
+## About Me
 
-**[Multi-Agent AI System for Automated Database Insights](https://github.com/ishaanchowdhury1/Multi-Agent-AI-System-for-Automated-Database-Insights)**
-A supervisor-orchestrated pipeline of four agents — Analyst, Expert, Reviewer, and Supervisor — that autonomously queries a database and generates a PDF insights report. Built with LangGraph, GPT-4o-mini, and Streamlit. [Live app →](https://multi-agent-db-insights.streamlit.app)
+I'm a Computer Science undergraduate (B.Tech, Techno Main Salt Lake, Kolkata) who ships agentic AI systems end to end: schema-aware NL-to-SQL agents, hybrid-retrieval pipelines over enterprise documents, and multi-agent workflows that turn raw data into reports, all with live public deployments.
 
-**[NL-to-SQL Querying Agent](https://github.com/ishaanchowdhury1/SQL-Querying-Agents-With-Tools)**
-An LLM-powered agent that converts plain English questions into SQL queries and executes them live. Reduced query response time by 40% compared to baseline. Built with LangGraph and Streamlit. [Live app →](https://sql-query-agent-tool.streamlit.app)
+**Strengths**
+- **Agent orchestration:** supervisor-style LangGraph workflows with conditional branching, fault-tolerant routing, and structured JSON validation.
+- **Retrieval that holds up:** hybrid dense + BM25 search, structure-aware chunking, and reranking, measured rather than assumed.
+- **Guardrails and evaluation:** hallucination detection, response validation, PII masking, and decision tracing.
+- **Fundamentals:** 400+ DSA problems solved, with a focus on time and space complexity.
 
-**[AI Resume Analyzer](https://github.com/ishaanchowdhury1/AI-Resume-Analyzer)**
-Upload a resume PDF and paste a job description — the AI scores the match, identifies skill gaps, gives ATS optimization tips, and recommends hire/no-hire. Built with Llama 3.3 70B via Groq and Streamlit. Completely free. [Live app →](https://ai-resume-analyzer-ic.streamlit.app)
-
----
-
-### Experience
-
-**AI Engineer Intern — Thriving Springs AI** *(Aug 2025 – Sep 2025)*
-Built an end-to-end RAG system with LangChain and Databricks. Improved retrieval accuracy by 35% using BGE-large embeddings and semantic filtering. Designed a LangGraph multi-agent workflow for automated internal data lookups.
+**Philosophy**
+> Make it grounded, make it measurable, make it auditable. An agent that can't show its sources or its reasoning isn't ready to ship.
 
 ---
 
-### Stats
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishaanchowdhury1&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+| Area | Tools |
+|---|---|
+| **Languages** | Python · JavaScript · TypeScript · SQL · HTML/CSS |
+| **Agentic AI & LLMs** | LangChain · LangGraph · Multi-Agent Systems · Function Calling · Tool Use · Model Routing · Prompt Engineering |
+| **RAG & Retrieval** | Hybrid Retrieval (dense + BM25) · Reranking · Semantic Search · BGE & MiniLM Embeddings |
+| **Data & Vector Stores** | ChromaDB · Pinecone · SQLite · MongoDB · CosmosDB |
+| **Evaluation & Guardrails** | LLM Evaluation · Hallucination Detection · Response Validation · PII Masking |
+| **Cloud & MLOps** | Azure · AWS · Databricks · Unity Catalog · MLflow · Docker · Git · CI/CD · Streamlit |
+| **ML / NLP** | scikit-learn · Logistic Regression · Cross-Validation |
+| **Models & APIs** | GPT-4o-mini · GPT-4.1-mini · Llama 3.3 70B · Ollama · OpenAI API · Groq API · Hugging Face |
 
 ---
 
-<p align="center">400+ DSA problems solved · Open to AI/ML roles and collaborations</p>
+## Featured Projects
+
+### [Multi-Agent System for Automated Database Insights](https://github.com/ishaanchowdhury1/Multi-Agent-AI-System-for-Automated-Database-Insights)
+Supervisor-orchestrated Analyst, Expert, and Reviewer agents that autonomously query a SQLite database and generate a PDF insights report.
+`Python` `LangGraph` `GPT-4o-mini` `Streamlit`
+
+### [NL-to-SQL Querying Agent](https://github.com/ishaanchowdhury1/SQL-Querying-Agents-With-Tools)
+Turns plain English into SQL via schema introspection and dynamic tool execution, with live streaming output. Prompt optimization and caching cut query response time by about 40%.
+`Python` `LangGraph` `SQLite` `Streamlit`
+
+### [Invoice Agent System](https://github.com/ishaanchowdhury1/invoice-agent-system)
+Multi-agent pipeline that processes invoices, matches purchase orders, detects discrepancies, and recommends resolutions, with an OCR fallback and confidence-scored escalation.
+`Python` `LangGraph` `OCR`
+
+### [Enterprise RAG Chatbot (Databricks, LangChain, Unity Catalog)](https://github.com/ishaanchowdhury1/End-to-End-RAG-Chatbot-with-Databricks-LangChain-Unity-Catalog)
+Production RAG system with governed MLflow deployments, hallucination detection, and fallback guardrails.
+`Python` `Databricks` `MLflow` `BGE Embeddings`
+
+### [OpenKhata](https://github.com/ishaanchowdhury1/OpenKhata)
+A local-first credit ledger (khata) for small shops. Typed or voice entries are parsed by a local LLM into a SQLite ledger, with unit-tested safety rules on the extractor.
+`Python` `Streamlit` `SQLite` `Ollama` `Whisper`
+
+### [AI-Powered IT Helpdesk Triage Agent](https://github.com/ishaanchowdhury1?tab=repositories)
+Autonomous L1 ticket triage with a hybrid RAG pipeline (**95% hit@3, 0.90 MRR**), a cross-validated escalation router (**83% accuracy vs. 65% baseline**), and deterministic guardrails that caught **30/36 adversarial cases** with zero false blocks.
+`Python` `scikit-learn` `Hybrid RAG`
+
+> More in [my repositories](https://github.com/ishaanchowdhury1?tab=repositories), including [TennisRAG](https://github.com/ishaanchowdhury1/TennisRAG-Retrieval-Augmented-Generation-with-LLaMA-Chroma) and the [AI Resume Analyzer](https://github.com/ishaanchowdhury1/AI-Resume-Analyzer).
+
+---
+
+## Experience
+
+- **AI Intern** (starting now): hands-on AI engineering work alongside my studies.
+- **AI Agent Development Intern, SOiTA** (from 1 Nov 2026, remote): building AI agents.
+- **AI Engineer Intern, Thriving Springs AI** (Aug-Sep 2025): built an end-to-end RAG system with LangChain, Databricks, and Unity Catalog, improving retrieval accuracy by 35% with BGE-large embeddings and semantic filtering, plus a LangGraph multi-agent workflow for schema analysis, SQL generation, and summarization.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ishaanchowdhury1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaanchowdhury1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ishaanchowdhury1&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Currently Building & Learning
+
+- **Building:** agentic AI systems across two AI internships, plus local-first AI tools like OpenKhata and TrailTalk for Hacktoberfest 2026.
+- **Sharpening:** evaluation for agents, with tighter metrics, tracing, and regression tests for multi-agent workflows.
+- **Exploring:** self-improving agent designs and hackathon builds that push orchestration and reliability.
+
+---
+
+## Connect with Me
+
+- **Email:** [ishaanchowdhury2007@gmail.com](mailto:ishaanchowdhury2007@gmail.com)
+- **LinkedIn:** [linkedin.com/in/ishaanchowdhury](https://linkedin.com/in/ishaanchowdhury)
+- **GitHub:** [@ishaanchowdhury1](https://github.com/ishaanchowdhury1)
+
+Open to AI/ML roles, open-source collaboration, and conversations about agentic AI, RAG, and evaluation.
